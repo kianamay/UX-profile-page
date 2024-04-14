@@ -1,1 +1,6 @@
 /* Add screen styles below */
+body{
+    background-color: #FFF5F9;
+    font-family: 'Roboto Mono';
+    font-size: 22px;
+}
