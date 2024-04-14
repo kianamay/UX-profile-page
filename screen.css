@@ -3,4 +3,11 @@ body{
     background-color: #FFF5F9;
     font-family: 'Roboto Mono';
     font-size: 22px;
+    margin: 100px;
+}
+
+.profile{
+    border-radius: 400px;
+    width: 30%;
+
 }
