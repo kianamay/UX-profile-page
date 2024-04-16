@@ -9,7 +9,12 @@ body{
 }
 .container{
     display: flex;
-    
+    flex-direction: column;
+    justify-content: left;
+}
+
+.container .center{
+    justify-content: center;
 }
 
 .profile{
