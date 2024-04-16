@@ -19,6 +19,13 @@ body{
     justify-content: center;
 }
 
+
+.container-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
 .profile{
     border-radius: 400px;
     width: 30%;
