@@ -7,9 +7,12 @@ body{
     color: black;
 
 }
+.container{
+    display: flex;
+    
+}
 
 .profile{
     border-radius: 400px;
     width: 30%;
-
 }
